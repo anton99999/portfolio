@@ -8,7 +8,8 @@ body{
 .header{
     background: url('https://www.fairloungebar.com/wp-content/uploads/2018/07/bg-img-07-free-img-1.jpg');
     height: 846px; 
-    background-size: cover;   
+    background-size: cover;
+    min-wight: 710px;   
 }
 
 .content{
