@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    font-size: 18px;
+}
+
+.header{
+    background: url('https://www.fairloungebar.com/wp-content/uploads/2018/07/bg-img-07-free-img-1.jpg') no-repeat;
+    height: 846px;    
+}
+
+.content{
+    width: 1420px;
+    margin: 0 auto;
+}
+
+.head-panel{
+    padding-top: 30px;
+    display: flex;
+}
+.menu{
+    margin-left: 70px;
+    
+    display: flex;
+    padding: 0px;
+}
+
+li{
+    margin-right: 50px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+
+.menu-link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-size: 18px;
+    font-family: Arial;
+    align-items: center;
+    padding: 0px;
+    margin: auto;
+    margin-right: 0px;
+}
+
+.tel{
+    display: flex;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    align-items: center;
+    margin: 0 0 0 auto;
+    
+    
+}
+
+.head-zagolovok{
+    text-transform: uppercase;
+    margin-top: 170px;
+}
+
+.zagolovok{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 80px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0px;
+}
+.zagolovok2{
+    
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 60px;
+}
+
+.knopka{
+    
+    
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding: 14px 48px;
+    width: 150px;
+    height: 50px;
+    border: 2px solid white;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
+
+.star{
+    width: 37px;
+    height: 50px;
+}
+
